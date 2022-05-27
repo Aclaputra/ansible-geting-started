@@ -1,3 +1,7 @@
+### Requirement
+Installed ansible on your local machine
+![](./img/ansible-installed.png)
+
 check all my inventory hosts are ready to be managed by ansible
 ```
 ansible all -m ping
