@@ -1,5 +1,5 @@
-### Requirement
-Installed ansible on your local machine
+### Requirements
+- Installed ansible on your local machine
 
 ![](./img/ansible-installed.png)
 
